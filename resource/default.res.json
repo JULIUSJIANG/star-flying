@@ -1,0 +1,135 @@
+{
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "attbg_hero_png,attcon_hero_png,base_jpg,bg_png,line_png,star_jpg,o1_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,eye_o1_png,o12_png,o1_base_png,hero_center_png,hero_left_png,hero_right_png,dot_hero_png,nor_png,nor_shadow_png,o1_base2_png"
+		}
+	],
+	"resources": [
+		{
+			"name": "attbg_hero_png",
+			"type": "image",
+			"url": "images/attack_light/hero/attbg_hero.png"
+		},
+		{
+			"name": "attcon_hero_png",
+			"type": "image",
+			"url": "images/attack_light/hero/attcon_hero.png"
+		},
+		{
+			"name": "base_jpg",
+			"type": "image",
+			"url": "images/bg/base.jpg"
+		},
+		{
+			"name": "bg_png",
+			"type": "image",
+			"url": "images/bg/bg.png"
+		},
+		{
+			"name": "line_png",
+			"type": "image",
+			"url": "images/bg/line.png"
+		},
+		{
+			"name": "star_jpg",
+			"type": "image",
+			"url": "images/bg/star.jpg"
+		},
+		{
+			"name": "o1_png",
+			"type": "image",
+			"url": "images/bullet/o1/o1.png"
+		},
+		{
+			"name": "control_bottom_png",
+			"type": "image",
+			"url": "images/control/control_bottom.png"
+		},
+		{
+			"name": "control_center_png",
+			"type": "image",
+			"url": "images/control/control_center.png"
+		},
+		{
+			"name": "control_left_png",
+			"type": "image",
+			"url": "images/control/control_left.png"
+		},
+		{
+			"name": "control_right_png",
+			"type": "image",
+			"url": "images/control/control_right.png"
+		},
+		{
+			"name": "control_top_png",
+			"type": "image",
+			"url": "images/control/control_top.png"
+		},
+		{
+			"name": "fire1_png",
+			"type": "image",
+			"url": "images/engineer_light/hero/fire1.png"
+		},
+		{
+			"name": "fire2_png",
+			"type": "image",
+			"url": "images/engineer_light/hero/fire2.png"
+		},
+		{
+			"name": "fire3_png",
+			"type": "image",
+			"url": "images/engineer_light/hero/fire3.png"
+		},
+		{
+			"name": "eye_o1_png",
+			"type": "image",
+			"url": "images/plane/enemy/o1/eye_o1.png"
+		},
+		{
+			"name": "o12_png",
+			"type": "image",
+			"url": "images/plane/enemy/o1/o1.png"
+		},
+		{
+			"name": "o1_base_png",
+			"type": "image",
+			"url": "images/plane/enemy/o1/o1_base.png"
+		},
+		{
+			"name": "hero_center_png",
+			"type": "image",
+			"url": "images/plane/hero/hero_center.png"
+		},
+		{
+			"name": "hero_left_png",
+			"type": "image",
+			"url": "images/plane/hero/hero_left.png"
+		},
+		{
+			"name": "hero_right_png",
+			"type": "image",
+			"url": "images/plane/hero/hero_right.png"
+		},
+		{
+			"name": "dot_hero_png",
+			"type": "image",
+			"url": "images/bullet/light1/dot_hero.png"
+		},
+		{
+			"name": "nor_png",
+			"type": "image",
+			"url": "images/bullet/light1/nor.png"
+		},
+		{
+			"name": "nor_shadow_png",
+			"type": "image",
+			"url": "images/bullet/light1/nor_shadow.png"
+		},
+		{
+			"name": "o1_base2_png",
+			"type": "image",
+			"url": "images/bullet/o1/o1_base.png"
+		}
+	]
+}
