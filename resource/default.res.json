@@ -2,7 +2,7 @@
 	"groups": [
 		{
 			"name": "preload",
-			"keys": "attbg_hero_png,attcon_hero_png,base_jpg,bg_png,line_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png"
+			"keys": "attbg_hero_png,attcon_hero_png,base_jpg,bg_png,line_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png,icon_light1_png,life_base_png,life_item_png,mask_icon_png"
 		}
 	],
 	"resources": [
@@ -135,6 +135,26 @@
 			"name": "o1_base_png",
 			"type": "image",
 			"url": "images/plane/enemy/o1/o1_base.png"
+		},
+		{
+			"name": "icon_light1_png",
+			"type": "image",
+			"url": "images/view/icon/icon_light1.png"
+		},
+		{
+			"name": "life_base_png",
+			"type": "image",
+			"url": "images/view/life_base.png"
+		},
+		{
+			"name": "life_item_png",
+			"type": "image",
+			"url": "images/view/life_item.png"
+		},
+		{
+			"name": "mask_icon_png",
+			"type": "image",
+			"url": "images/view/mask_icon.png"
 		}
 	]
 }
