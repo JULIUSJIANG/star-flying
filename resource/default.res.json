@@ -2,7 +2,7 @@
 	"groups": [
 		{
 			"name": "preload",
-			"keys": "attbg_hero_png,attcon_hero_png,base_jpg,bg_png,line_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png,icon_light1_png,life_base_png,life_item_png,mask_icon_png"
+			"keys": "attbg_hero_png,attcon_hero_png,base_jpg,bg_png,line_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png,icon_light1_png,life_base_png,life_item_png,btn_boss_png,success_png,btn_return_index_success_png,txt_fail_png,btn_again_fail_png,btn_return_index_fail_png,btn_pause_png,btn_continue_png,btn_again_pause_png,btn_return_index_pause_png"
 		}
 	],
 	"resources": [
@@ -152,9 +152,54 @@
 			"url": "images/view/life_item.png"
 		},
 		{
-			"name": "mask_icon_png",
+			"name": "btn_boss_png",
 			"type": "image",
-			"url": "images/view/mask_icon.png"
+			"url": "images/view/index/btn_boss.png"
+		},
+		{
+			"name": "success_png",
+			"type": "image",
+			"url": "images/view/success/success.png"
+		},
+		{
+			"name": "btn_return_index_success_png",
+			"type": "image",
+			"url": "images/view/success/btn_return_index_success.png"
+		},
+		{
+			"name": "txt_fail_png",
+			"type": "image",
+			"url": "images/view/fail/txt_fail.png"
+		},
+		{
+			"name": "btn_again_fail_png",
+			"type": "image",
+			"url": "images/view/fail/btn_again_fail.png"
+		},
+		{
+			"name": "btn_return_index_fail_png",
+			"type": "image",
+			"url": "images/view/fail/btn_return_index_fail.png"
+		},
+		{
+			"name": "btn_pause_png",
+			"type": "image",
+			"url": "images/view/pause/btn_pause.png"
+		},
+		{
+			"name": "btn_continue_png",
+			"type": "image",
+			"url": "images/view/pause/btn_continue.png"
+		},
+		{
+			"name": "btn_again_pause_png",
+			"type": "image",
+			"url": "images/view/pause/btn_again_pause.png"
+		},
+		{
+			"name": "btn_return_index_pause_png",
+			"type": "image",
+			"url": "images/view/pause/btn_return_index_pause.png"
 		}
 	]
 }
