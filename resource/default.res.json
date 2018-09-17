@@ -2,7 +2,7 @@
 	"groups": [
 		{
 			"name": "preload",
-			"keys": "attbg_hero_png,attcon_hero_png,base_jpg,bg_png,line_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png,icon_light1_png,life_base_png,life_item_png,btn_boss_png,success_png,btn_return_index_success_png,txt_fail_png,btn_again_fail_png,btn_return_index_fail_png,btn_pause_png,btn_continue_png,btn_again_pause_png,btn_return_index_pause_png"
+			"keys": "attbg_hero_png,attcon_hero_png,base_jpg,bg_png,line_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png,icon_light1_png,btn_boss_png,success_png,txt_fail_png,btn_again_fail_png,btn_return_index_fail_png,btn_pause_png,btn_continue_png,btn_again_pause_png,btn_return_index_pause_png,o1dot_png,btn_back_png,btn_certain_png,life_base_png,life_item_png,icon_o1_png,boss_bg_png,arm_bg_png,txt_level_png,txt_arm_png,arrow_left_top_png,arrow_right_top_png,arrow_left_bottom_png,arrow_right_bottom_png"
 		}
 	],
 	"resources": [
@@ -142,16 +142,6 @@
 			"url": "images/view/icon/icon_light1.png"
 		},
 		{
-			"name": "life_base_png",
-			"type": "image",
-			"url": "images/view/life_base.png"
-		},
-		{
-			"name": "life_item_png",
-			"type": "image",
-			"url": "images/view/life_item.png"
-		},
-		{
 			"name": "btn_boss_png",
 			"type": "image",
 			"url": "images/view/index/btn_boss.png"
@@ -160,11 +150,6 @@
 			"name": "success_png",
 			"type": "image",
 			"url": "images/view/success/success.png"
-		},
-		{
-			"name": "btn_return_index_success_png",
-			"type": "image",
-			"url": "images/view/success/btn_return_index_success.png"
 		},
 		{
 			"name": "txt_fail_png",
@@ -200,6 +185,76 @@
 			"name": "btn_return_index_pause_png",
 			"type": "image",
 			"url": "images/view/pause/btn_return_index_pause.png"
+		},
+		{
+			"name": "o1dot_png",
+			"type": "image",
+			"url": "images/plane/enemy/o1dot/o1dot.png"
+		},
+		{
+			"name": "btn_back_png",
+			"type": "image",
+			"url": "images/view/choice/btn_back.png"
+		},
+		{
+			"name": "btn_certain_png",
+			"type": "image",
+			"url": "images/view/choice/btn_certain.png"
+		},
+		{
+			"name": "life_base_png",
+			"type": "image",
+			"url": "images/view/life/life_base.png"
+		},
+		{
+			"name": "life_item_png",
+			"type": "image",
+			"url": "images/view/life/life_item.png"
+		},
+		{
+			"name": "icon_o1_png",
+			"type": "image",
+			"url": "images/view/boss_icon/icon_o1.png"
+		},
+		{
+			"name": "boss_bg_png",
+			"type": "image",
+			"url": "images/view/choice/boss_bg.png"
+		},
+		{
+			"name": "arm_bg_png",
+			"type": "image",
+			"url": "images/view/choice/arm_bg.png"
+		},
+		{
+			"name": "txt_level_png",
+			"type": "image",
+			"url": "images/view/choice/txt_level.png"
+		},
+		{
+			"name": "txt_arm_png",
+			"type": "image",
+			"url": "images/view/choice/txt_arm.png"
+		},
+		{
+			"name": "arrow_left_top_png",
+			"type": "image",
+			"url": "images/view/choice/arrow_left_top.png"
+		},
+		{
+			"name": "arrow_right_top_png",
+			"type": "image",
+			"url": "images/view/choice/arrow_right_top.png"
+		},
+		{
+			"name": "arrow_left_bottom_png",
+			"type": "image",
+			"url": "images/view/choice/arrow_left_bottom.png"
+		},
+		{
+			"name": "arrow_right_bottom_png",
+			"type": "image",
+			"url": "images/view/choice/arrow_right_bottom.png"
 		}
 	]
 }
