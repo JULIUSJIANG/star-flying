@@ -2,7 +2,7 @@
 	"groups": [
 		{
 			"name": "preload",
-			"keys": "attbg_hero_png,attcon_hero_png,base_jpg,bg_png,line_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png,icon_light1_png,btn_boss_png,success_png,txt_fail_png,btn_again_fail_png,btn_return_index_fail_png,btn_pause_png,btn_continue_png,btn_again_pause_png,btn_return_index_pause_png,o1dot_png,btn_back_png,btn_certain_png,life_base_png,life_item_png,icon_o1_png,boss_bg_png,arm_bg_png,txt_level_png,txt_arm_png,arrow_left_top_png,arrow_right_top_png,arrow_left_bottom_png,arrow_right_bottom_png"
+			"keys": "attbg_hero_png,attcon_hero_png,base_jpg,bg_png,line_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png,icon_light1_png,btn_boss_png,success_png,txt_fail_png,btn_again_fail_png,btn_return_index_fail_png,btn_pause_png,btn_continue_png,btn_again_pause_png,btn_return_index_pause_png,o1dot_png,btn_back_png,btn_certain_png,life_base_png,life_item_png,icon_o1_png,boss_bg_png,arm_bg_png,txt_level_png,txt_arm_png,arrow_left_top_png,arrow_right_top_png,arrow_left_bottom_png,arrow_right_bottom_png,banana1_png,icon_banana1_png,strawberry1_png,icon_strawberry1_png,banana_shadow_png"
 		}
 	],
 	"resources": [
@@ -255,6 +255,31 @@
 			"name": "arrow_right_bottom_png",
 			"type": "image",
 			"url": "images/view/choice/arrow_right_bottom.png"
+		},
+		{
+			"name": "banana1_png",
+			"type": "image",
+			"url": "images/bullet/army/banana1.png"
+		},
+		{
+			"name": "icon_banana1_png",
+			"type": "image",
+			"url": "images/view/icon/icon_banana1.png"
+		},
+		{
+			"name": "strawberry1_png",
+			"type": "image",
+			"url": "images/bullet/army/strawberry1.png"
+		},
+		{
+			"name": "icon_strawberry1_png",
+			"type": "image",
+			"url": "images/view/icon/icon_strawberry1.png"
+		},
+		{
+			"name": "banana_shadow_png",
+			"type": "image",
+			"url": "images/bullet/army/banana_shadow.png"
 		}
 	]
 }
