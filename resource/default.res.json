@@ -2,7 +2,7 @@
 	"groups": [
 		{
 			"name": "preload",
-			"keys": "attbg_hero_png,attcon_hero_png,base_jpg,bg_png,line_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png,icon_light1_png,btn_boss_png,success_png,txt_fail_png,btn_again_fail_png,btn_return_index_fail_png,btn_pause_png,btn_continue_png,btn_again_pause_png,btn_return_index_pause_png,o1dot_png,btn_back_png,btn_certain_png,life_base_png,life_item_png,icon_o1_png,boss_bg_png,arm_bg_png,txt_level_png,txt_arm_png,arrow_left_top_png,arrow_right_top_png,arrow_left_bottom_png,arrow_right_bottom_png,banana1_png,icon_banana1_png,strawberry1_png,icon_strawberry1_png,banana_shadow_png"
+			"keys": "attbg_hero_png,attcon_hero_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png,icon_light1_png,btn_boss_png,success_png,txt_fail_png,btn_again_fail_png,btn_return_index_fail_png,btn_pause_png,btn_continue_png,btn_again_pause_png,btn_return_index_pause_png,o1dot_png,btn_back_png,btn_certain_png,life_base_png,life_item_png,icon_o1_png,boss_bg_png,arm_bg_png,txt_level_png,txt_arm_png,arrow_left_top_png,arrow_right_top_png,arrow_left_bottom_png,arrow_right_bottom_png,banana1_png,icon_banana1_png,strawberry1_png,icon_strawberry1_png,banana_shadow_png,soul_png,soul_shadow_png,icon_soul_png,base_jpg"
 		}
 	],
 	"resources": [
@@ -15,21 +15,6 @@
 			"name": "attcon_hero_png",
 			"type": "image",
 			"url": "images/attack_light/hero/attcon_hero.png"
-		},
-		{
-			"name": "base_jpg",
-			"type": "image",
-			"url": "images/bg/base.jpg"
-		},
-		{
-			"name": "bg_png",
-			"type": "image",
-			"url": "images/bg/bg.png"
-		},
-		{
-			"name": "line_png",
-			"type": "image",
-			"url": "images/bg/line.png"
 		},
 		{
 			"name": "star_jpg",
@@ -280,6 +265,26 @@
 			"name": "banana_shadow_png",
 			"type": "image",
 			"url": "images/bullet/army/banana_shadow.png"
+		},
+		{
+			"name": "soul_png",
+			"type": "image",
+			"url": "images/bullet/army/soul.png"
+		},
+		{
+			"name": "soul_shadow_png",
+			"type": "image",
+			"url": "images/bullet/army/soul_shadow.png"
+		},
+		{
+			"name": "icon_soul_png",
+			"type": "image",
+			"url": "images/view/icon/icon_soul.png"
+		},
+		{
+			"name": "base_jpg",
+			"type": "image",
+			"url": "images/bg/base.jpg"
 		}
 	]
 }
