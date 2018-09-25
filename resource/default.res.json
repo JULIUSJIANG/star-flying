@@ -2,7 +2,7 @@
 	"groups": [
 		{
 			"name": "preload",
-			"keys": "attbg_hero_png,attcon_hero_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png,icon_light1_png,btn_boss_png,success_png,txt_fail_png,btn_again_fail_png,btn_return_index_fail_png,btn_pause_png,btn_continue_png,btn_again_pause_png,btn_return_index_pause_png,o1dot_png,btn_back_png,btn_certain_png,life_base_png,life_item_png,icon_o1_png,boss_bg_png,arm_bg_png,txt_level_png,txt_arm_png,arrow_left_top_png,arrow_right_top_png,arrow_left_bottom_png,arrow_right_bottom_png,banana1_png,icon_banana1_png,strawberry1_png,icon_strawberry1_png,banana_shadow_png,soul_png,soul_shadow_png,icon_soul_png,base_jpg"
+			"keys": "attbg_hero_png,attcon_hero_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png,icon_light1_png,btn_boss_png,success_png,txt_fail_png,btn_again_fail_png,btn_return_index_fail_png,btn_pause_png,btn_continue_png,btn_again_pause_png,btn_return_index_pause_png,btn_back_png,btn_certain_png,life_base_png,life_item_png,icon_o1_png,boss_bg_png,arm_bg_png,txt_level_png,txt_arm_png,arrow_left_top_png,arrow_right_top_png,arrow_left_bottom_png,arrow_right_bottom_png,banana1_png,icon_banana1_png,strawberry1_png,icon_strawberry1_png,banana_shadow_png,soul_png,soul_shadow_png,icon_soul_png,base_jpg,o1dot_png,face_water1_png,bg_water1_png,ice_png,shadow_ice_png,icon_ice_png,icon_fire_png,shadow_fire_png,bullet_fire_png,bg_fire_png,con_fire_png,eye_firepng_png"
 		}
 	],
 	"resources": [
@@ -172,11 +172,6 @@
 			"url": "images/view/pause/btn_return_index_pause.png"
 		},
 		{
-			"name": "o1dot_png",
-			"type": "image",
-			"url": "images/plane/enemy/o1dot/o1dot.png"
-		},
-		{
 			"name": "btn_back_png",
 			"type": "image",
 			"url": "images/view/choice/btn_back.png"
@@ -285,6 +280,66 @@
 			"name": "base_jpg",
 			"type": "image",
 			"url": "images/bg/base.jpg"
+		},
+		{
+			"name": "o1dot_png",
+			"type": "image",
+			"url": "images/plane/enemy/o1/o1dot/o1dot.png"
+		},
+		{
+			"name": "face_water1_png",
+			"type": "image",
+			"url": "images/plane/enemy/water1/face_water1.png"
+		},
+		{
+			"name": "bg_water1_png",
+			"type": "image",
+			"url": "images/plane/enemy/water1/bg_water1.png"
+		},
+		{
+			"name": "ice_png",
+			"type": "image",
+			"url": "images/bullet/water/ice.png"
+		},
+		{
+			"name": "shadow_ice_png",
+			"type": "image",
+			"url": "images/bullet/water/shadow_ice.png"
+		},
+		{
+			"name": "icon_ice_png",
+			"type": "image",
+			"url": "images/view/boss_icon/icon_ice.png"
+		},
+		{
+			"name": "icon_fire_png",
+			"type": "image",
+			"url": "images/view/boss_icon/icon_fire.png"
+		},
+		{
+			"name": "shadow_fire_png",
+			"type": "image",
+			"url": "images/bullet/fire/shadow_fire.png"
+		},
+		{
+			"name": "bullet_fire_png",
+			"type": "image",
+			"url": "images/bullet/fire/bullet_fire.png"
+		},
+		{
+			"name": "bg_fire_png",
+			"type": "image",
+			"url": "images/plane/enemy/fire1/bg_fire.png"
+		},
+		{
+			"name": "con_fire_png",
+			"type": "image",
+			"url": "images/plane/enemy/fire1/con_fire.png"
+		},
+		{
+			"name": "eye_firepng_png",
+			"type": "image",
+			"url": "images/plane/enemy/fire1/eye_firepng.png"
 		}
 	]
 }
