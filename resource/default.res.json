@@ -2,7 +2,7 @@
 	"groups": [
 		{
 			"name": "preload",
-			"keys": "attbg_hero_png,attcon_hero_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png,icon_light1_png,btn_boss_png,success_png,txt_fail_png,btn_again_fail_png,btn_return_index_fail_png,btn_pause_png,btn_continue_png,btn_again_pause_png,btn_return_index_pause_png,btn_back_png,btn_certain_png,life_base_png,life_item_png,icon_o1_png,boss_bg_png,arm_bg_png,txt_level_png,txt_arm_png,arrow_left_top_png,arrow_right_top_png,arrow_left_bottom_png,arrow_right_bottom_png,banana1_png,icon_banana1_png,strawberry1_png,icon_strawberry1_png,banana_shadow_png,soul_png,soul_shadow_png,icon_soul_png,base_jpg,o1dot_png,face_water1_png,bg_water1_png,ice_png,shadow_ice_png,icon_ice_png,icon_fire_png,shadow_fire_png,bullet_fire_png,bg_fire_png,con_fire_png,eye_firepng_png"
+			"keys": "attbg_hero_png,attcon_hero_png,star_jpg,dot_hero_png,nor_png,nor_shadow_png,control_bottom_png,control_center_png,control_left_png,control_right_png,control_top_png,fire1_png,fire2_png,fire3_png,explode_nor_png,hero_center_png,hero_left_png,hero_right_png,o1_dot_around_png,o1_dot_shdow_png,eye_o1_png,o1_png,o1_base_png,icon_light1_png,btn_boss_png,success_png,txt_fail_png,btn_again_fail_png,btn_return_index_fail_png,btn_pause_png,btn_continue_png,btn_again_pause_png,btn_return_index_pause_png,btn_back_png,btn_certain_png,life_base_png,life_item_png,icon_o1_png,boss_bg_png,arm_bg_png,txt_level_png,txt_arm_png,arrow_left_top_png,arrow_right_top_png,arrow_left_bottom_png,arrow_right_bottom_png,banana1_png,icon_banana1_png,strawberry1_png,icon_strawberry1_png,banana_shadow_png,soul_png,soul_shadow_png,icon_soul_png,base_jpg,o1dot_png,face_water1_png,bg_water1_png,ice_png,shadow_ice_png,icon_ice_png,icon_fire_png,shadow_fire_png,bullet_fire_png,bg_fire_png,con_fire_png,eye_firepng_png,explode_wav,fight_mp3,hit_mp3,music_mp3"
 		}
 	],
 	"resources": [
@@ -340,6 +340,26 @@
 			"name": "eye_firepng_png",
 			"type": "image",
 			"url": "images/plane/enemy/fire1/eye_firepng.png"
+		},
+		{
+			"name": "explode_wav",
+			"type": "sound",
+			"url": "musics/explode.wav"
+		},
+		{
+			"name": "fight_mp3",
+			"type": "sound",
+			"url": "musics/fight.mp3"
+		},
+		{
+			"name": "hit_mp3",
+			"type": "sound",
+			"url": "musics/hit.mp3"
+		},
+		{
+			"name": "music_mp3",
+			"type": "sound",
+			"url": "musics/music.mp3"
 		}
 	]
 }
